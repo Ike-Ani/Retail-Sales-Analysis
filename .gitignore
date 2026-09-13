@@ -1,0 +1,8 @@
+.venv
+.idea
+__pycache__
+
+cleaned_retail_data.csv
+retail_store_sales.csv
+
+draft.py
